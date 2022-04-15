@@ -13,4 +13,4 @@ Speaks the text typed in.
 Change voices and accents.
 ![cover2](https://user-images.githubusercontent.com/74714313/163566261-ebc394b9-03e7-4f4b-8197-a723021d059b.png)
 
-![Uploading cover.png…]()
+
